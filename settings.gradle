@@ -1,0 +1,2 @@
+rootProject.name = "My Experience As Android Engineer"
+include ':app'

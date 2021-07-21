@@ -1,0 +1,38 @@
+[
+	{
+		"year": 2013,
+    	"description": "First contact with mobile using Kony, a tool with the intention of creating cross-platform apps. One of the first certified developers in Brazil. Projects for Honda/SP (vehicle manufacturer), Tribanco/MG (retail bank for companies) and for Itaú/SP (largest bank in Latin America)"
+	},
+	{
+		"year": 2014,
+    	"description": "We turned off Kony apps at Itaú and started using native apps, my journey as an Android developer begins. First deliveries in mobile banking PJ (as an outsourced)"
+	},
+	{
+		"year": 2015,
+		"description": "Beginning of a long cycle with the bank Santander/SP (smartphone/tablet), I deliver some demands in the old version of the app and a few months later we launched a new app just for smartphones"
+	},
+	{
+		"year": 2016,
+		"description": "I am part of an antenna maintenance project at Nokia/Dallas-US, with 3 trips to implement the project on-site. Back to Santander after 6 months and I am part of the dynamic transaction authentication token implementation team"
+	},
+	{
+		"year": 2017,
+		"description": "Project with a financial company Credsystem/SP (payment of bills with credit card). And projects with Safra/SP and Alfa/SP banks, both mobile banking versions"
+	},
+	{
+		"year": 2018,
+		"description": "At this point, I no longer work directly with projects and start working as a sales and support engineer as an Android specialist"
+	},
+	{
+		"year": 2019,
+		"description": "I return to work as an Android engineer at Itaú/SP (mobile banking PJ) now as an employee"
+	},
+	{
+		"year": 2020,
+		"description": "Starts my acting cycle as Tech Lead, supporting mobile and web development squads"
+	},
+	{
+		"year": 2021,
+		"description": "Still acting as Tech Lead at Itaú"
+	}
+]
